@@ -43,5 +43,5 @@
 - ✅ Nav updated
 
 ### gallery.html
-- ✅ Title updated to "Gallery — Cosmic Wisdom Trust"
+- ✅ Title updated to "Gallery — School of Cosmic Wisdom"
 - ✅ Nav updated

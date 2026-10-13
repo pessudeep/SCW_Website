@@ -1,0 +1,3 @@
+npx -y firebase-tools@latest login --reauth
+npx -y firebase-tools@latest use cwf-website-b94f3
+npx -y firebase-tools@latest deploy --only hosting
